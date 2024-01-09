@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ElianHuanca?tab=repositories](https://github.com/ElianHuanca?tab=repositories)
+- 👨‍💻 All of my projects are available at [click here](https://github.com/ElianHuanca?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
